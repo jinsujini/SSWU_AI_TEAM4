@@ -9,5 +9,5 @@
 
 
 
-1차 회의록 : https://rhetorical-shaker-07c.notion.site/1-1d874b00a05380088372f561928a081a  
-            안건 -  프로젝트 주제선정/개요/방향, 주별 일정 계획         
+1차 회의록 : 안건 -  프로젝트 주제선정/개요/방향, 주별 일정 계획 [인공지능응용_4팀_1주차회의록.pdf](https://github.com/user-attachments/files/19786742/_4._1.pdf)
+        
