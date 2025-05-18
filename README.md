@@ -13,7 +13,7 @@
 2차 회의록 : 안건 - 프로젝트 주제 변경에 관한 논의[제2차_정기회의.pdf](https://github.com/user-attachments/files/19996622/2._.pdf)            
 임시 회의록 : 안건 - 프로젝트 주제 변경으로 인한 사전 계획 재 수립   [임시회의.pdf](https://github.com/user-attachments/files/19996625/default.pdf)           
 3차 회의록 ; 안건 - 전처리 관련 논의 [제3차정기회의.pdf](https://github.com/user-attachments/files/20124797/3.pdf) <data 브랜치에 전처리 코드>                  
-4차 회의록 : 안건 -
+4차 회의록 : 안건 - 프로젝트 진행 과정 보고, 모델 및 전처리 데이터 제작 상황 파악 
 
 
 <br>
