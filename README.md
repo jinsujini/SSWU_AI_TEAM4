@@ -1,6 +1,8 @@
 # SSWU_AI_TEAM4
 
 성신여자대학교 인공지능 응용 팀프로젝트 4팀 
+
+[wrong_joint_predict_data.zip] https://drive.google.com/file/d/1K3xoeaPPoPWIBlCO95wc14jdhn44TLXz/view?usp=sharing
              
 20231168 최수진             
 20231163 조수빈            
